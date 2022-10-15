@@ -23,11 +23,11 @@
 </p>
 
 
-<div>
-    <img alt="dev.finances" src="https://imgur.com/28ED14z.png" width="23%">
-    <img alt="dev.finances" src="https://imgur.com/U29tkDv.png" width="23%">
-    <img alt="dev.finances" src="https://imgur.com/UXPoUVA.png" width="23%">
-    <img alt="dev.finances" src="https://imgur.com/Dr80mFI.png" width="23%">
+<div align="center">
+    <img alt="dev.finances" src="https://imgur.com/28ED14z.png" width="23%">&nbsp;
+    <img alt="dev.finances" src="https://imgur.com/U29tkDv.png" width="23%">&nbsp;
+    <img alt="dev.finances" src="https://imgur.com/UXPoUVA.png" width="23%">&nbsp;
+    <img alt="dev.finances" src="https://imgur.com/Dr80mFI.png" width="23%">&nbsp;
             
 </div>
 
@@ -47,7 +47,33 @@ This project was developed with the following technologies:
 
 FindYourDuoApp
 
-## 🔌 How to start
+## 🔌 How to start (Front-End Web)
+
+To run the project just get the code and execute the command 
+```
+npm install 
+```
+for download the dependecies.
+
+And after that you can run the project executing the command below:
+```
+npm run dev
+```
+
+## 🔌 How to start (Front-End Mobile)
+
+To run the project just get the code and execute the command 
+```
+npm install 
+```
+for download the dependecies.
+
+And after that you can run the project executing the command below:
+```
+expo start
+```
+
+## 🔌 How to start (Back-End Web)
 
 To run the project just get the code and execute the command 
 ```
