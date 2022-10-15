@@ -45,7 +45,7 @@ This project was developed with the following technologies:
 
 ## 💻 Project
 
-FindYourDuoApp
+The ideia of the FindYourDuoApp is approximate the gamers around the world and bring one way to find themselves and them play together. 
 
 ## 🔌 How to start (Front-End Web)
 
