@@ -42,6 +42,7 @@ This project was developed with the following technologies:
 - ReactJS
 - Express
 - Prisma
+- Radix UI
 - Expo Mobile
 
 ## 💻 Project
